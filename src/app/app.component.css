@@ -1,0 +1,12 @@
+.container {
+  margin-left: 200px;
+  margin-top: 20px;
+}
+.logo {
+  display: flex;
+  align-items: center;
+}
+.logotext{
+    margin-left: 5px;
+    
+}
